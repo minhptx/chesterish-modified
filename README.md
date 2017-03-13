@@ -1,3 +1,3 @@
 # one-dark-modified
 
-Modified version of Chesterish theme of Atom. Colors are obtained from [Hyper-chesterish] (https://github.com/henrikdahl/hyper-chesterish)
+Modified Chesterish color-scheme for iTerm 2. Colors are obtained from [Hyper-chesterish] (https://github.com/henrikdahl/hyper-chesterish)
